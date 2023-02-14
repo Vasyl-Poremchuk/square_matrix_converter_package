@@ -1,6 +1,6 @@
 import asyncio
 
-from square_matrix_converter.parse_matrix import parse_matrix
+from square_matrix_converter import parse_matrix
 
 
 SOURCE_URL = "https://raw.githubusercontent.com/koury/pymx/main/source.txt"

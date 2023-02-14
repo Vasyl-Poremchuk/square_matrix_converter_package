@@ -1,6 +1,6 @@
 import pytest
 
-from square_matrix_converter.convert_square_matrix import convert_square_matrix
+from square_matrix_converter import convert_square_matrix
 
 
 @pytest.mark.parametrize(
