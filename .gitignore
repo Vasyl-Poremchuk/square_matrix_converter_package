@@ -1,3 +1,6 @@
 .idea/
 venv/
 __pycache__/
+build/
+dist/
+square_matrix_converter.egg-info/
