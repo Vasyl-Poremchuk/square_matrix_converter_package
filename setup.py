@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="square_matrix_converter",
-    version="0.0.1",
+    version="0.1.0",
     author="Vasyl Poremchuk",
     author_email="nleveryone@gmail.com",
     description="A package for converting square matrices.",
